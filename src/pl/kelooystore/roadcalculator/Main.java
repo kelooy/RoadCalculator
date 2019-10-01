@@ -9,7 +9,7 @@ public class Main {
             public void run()
             {
                 System.out.println(Thread.currentThread().getName());
-                StartupGUI app = new StartupGUI();
+                StartupGUI appStartupGUI = new StartupGUI();
             }
         });
     }
