@@ -2,7 +2,7 @@ package pl.kelooystore.roadcalculator;
 
 import javax.swing.*;
 
-public class ActionGUI extends StartupGUI
+public class ActionGUI extends FrameTemplate
 {
     private JPanel mainActionPanel;
     private JButton calculateButton;
@@ -12,12 +12,7 @@ public class ActionGUI extends StartupGUI
     public ActionGUI()
     {
         setDefaultWindowProperties(windowTitle);
-        add(getPanel(mainActionPanel));
+        add(mainActionPanel);
     }
 
-    @Override
-    protected JPanel getPanel(JPanel actionPanel)
-    {
-        return actionPanel;
-    }
 }

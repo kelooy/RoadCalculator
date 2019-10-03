@@ -1,11 +1,10 @@
 package pl.kelooystore.roadcalculator;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class StartupGUI extends JFrame
+public class StartupGUI extends FrameTemplate
 {
 
     private final String windowTitle = "Startup Window - RoadCalculator";
@@ -13,34 +12,11 @@ public class StartupGUI extends JFrame
     private JButton forwardButton;
     private JButton exitButton;
 
-    public void setDefaultWindowProperties(String windowTitle)
-    {
-        setSize(800,600);
-        setTitle(windowTitle);
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setLayout(new FlowLayout());
-        showWindow();
-    }
-
-    public void showWindow()
-    {
-        setVisible(true);
-    }
-
-    public void hideWindow()
-    {
-        setVisible(false);
-    }
-
-    protected JPanel getPanel(JPanel startupPanel)
-    {
-        return startupPanel;
-    }
 
     public StartupGUI()
     {
         setDefaultWindowProperties(windowTitle);
-        add(getPanel(mainStartupPanel));
+        add(mainStartupPanel);
 
         exitButton.addActionListener(new ActionListener() {
             @Override

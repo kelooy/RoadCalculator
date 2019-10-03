@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="752db8f8-afea-4b40-81e3-505dd07c614c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/ActionGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/ActionGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/ActionGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/ActionGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/StartupGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/StartupGUI.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JavaFXApplication" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -72,6 +71,7 @@
       <workItem from="1569860890441" duration="9373000" />
       <workItem from="1569877591016" duration="1002000" />
       <workItem from="1569957424740" duration="9992000" />
+      <workItem from="1570096759278" duration="1680000" />
     </task>
     <servers />
   </component>
