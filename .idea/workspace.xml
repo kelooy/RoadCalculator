@@ -4,11 +4,8 @@
     <list default="true" id="752db8f8-afea-4b40-81e3-505dd07c614c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/ActionGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/ActionGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RoadCalculator/pl/kelooystore/roadcalculator/StartupGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/ActionGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/ActionGUI.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/ActionGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/ActionGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/StartupGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/kelooystore/roadcalculator/StartupGUI.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +27,14 @@
   <component name="ProjectId" id="1RZ3eZ3b8ylGA4j7hl6XMc08Z7R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="349" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="315" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KalKoszTrasy" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -71,7 +70,8 @@
       <workItem from="1569860890441" duration="9373000" />
       <workItem from="1569877591016" duration="1002000" />
       <workItem from="1569957424740" duration="9992000" />
-      <workItem from="1570096759278" duration="1680000" />
+      <workItem from="1570096759278" duration="6915000" />
+      <workItem from="1572695454980" duration="874000" />
     </task>
     <servers />
   </component>
